@@ -1,4 +1,4 @@
-# rblogroll
+# HRUG blogroll
 a list of useful blogs and links of R resources
 * [Statistical Modeling, Causal Inference, and Social Science] (http://andrewgelman.com)
 * [Count Bayesie - A Probability Blog](http://www.countbayesie.com/)
