@@ -6,13 +6,13 @@ a list of useful blogs and links of R resources
 * [The Numbers](http://blogs.wsj.com/numbers)
 * [RStudio Blog](https://blog.rstudio.org)
 * [The R Journal](http://journal.r-project.org)
-* Analytical Minds
-* No Free Hunch
-* Flowing Data
-* AnalyzeCore – data are beautiful, data are a story
-* Data Science Heroes Blog
-* Fantasy Football Analytics
-* Analytics Made Skeezy
-* Revolutions
-* Bayesian Fantasy Football
+* [Analytical Minds](http://theanalyticalminds.blogspot.com/)
+* [No Free Hunch](http://blog.kaggle.com)
+* [Flowing Data](http://flowingdata.com)
+* [AnalyzeCore – data are beautiful, data are a story](http://analyzecore.com/feed/)
+* [Data Science Heroes Blog](http://blog.datascienceheroes.com/)
+* [Fantasy Football Analytics](http://fantasyfootballanalytics.net)
+* [Analytics Made Skeezy](http://analyticsmadeskeezy.com)
+* [Revolutions](http://blog.revolutionanalytics.com/)
+* [Bayesian Fantasy Football](http://www.bayesff.com)
 * [R Bloggers](http://www.r-bloggers.com")
